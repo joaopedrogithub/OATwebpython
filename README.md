@@ -1,3 +1,3 @@
-# Repositorio-VA-2-EngSoft
+# oat python
 nome: João Pedro Silvestre de Aragão 
-curso: Sistemas da Informação, 3 Semestre.
+curso: Sistemas da Informação, 5 Semestre.
